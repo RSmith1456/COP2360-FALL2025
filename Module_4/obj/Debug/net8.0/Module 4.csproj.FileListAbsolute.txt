@@ -1,0 +1,14 @@
+D:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.AssemblyInfoInputs.cache
+D:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.AssemblyInfo.cs
+D:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.csproj.CoreCompileInputs.cache
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\bin\Debug\net8.0\Module 4.exe
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\bin\Debug\net8.0\Module 4.deps.json
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\bin\Debug\net8.0\Module 4.runtimeconfig.json
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\bin\Debug\net8.0\Module 4.dll
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\bin\Debug\net8.0\Module 4.pdb
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.dll
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\refint\Module 4.dll
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.pdb
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\Module 4.genruntimeconfig.cache
+d:\School\Semester 10 (Fall 2025)\C#\Module 4\obj\Debug\net8.0\ref\Module 4.dll
